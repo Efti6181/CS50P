@@ -83,7 +83,7 @@ Through CS50P, I gained hands-on experience with:
 
 ## 📜 License
 
-This project is licensed under the ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)   – feel free to use [The WebApp ](https://covgene.netlify.app) for personal or educational purposes.
+This project is licensed under the ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)  
 
 
 
