@@ -10,7 +10,7 @@ I have successfully completed CS50P and earned the official certificate from Har
 
 📄 **Certificate:** 
 
-<img width="2112" height="1632" alt="CS50P" src="https://github.com/user-attachments/assets/13ee5bcd-9e3e-423d-b92f-e17cc78dd502" />
+<img width="1600" height="1000" alt="CS50P" src="https://github.com/user-attachments/assets/13ee5bcd-9e3e-423d-b92f-e17cc78dd502" />
 
 
 
@@ -81,5 +81,16 @@ Through CS50P, I gained hands-on experience with:
 
 
 
+## 📜 License
 
-Happy coding! 🚀
+This project is licensed under the ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)   – feel free to use [The WebApp ](https://covgene.netlify.app) for personal or educational purposes.
+
+
+
+## 👨‍💻 Author
+
+**Najmul Alam Efti**
+
+🎓 Premier University, Chittagong
+
+📧 \[najmul27alam@gmail.com]
