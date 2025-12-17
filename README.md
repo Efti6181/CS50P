@@ -10,7 +10,7 @@ I have successfully completed CS50P and earned the official certificate from Har
 
 📄 **Certificate:** 
 
-<img width="1000" height="600" alt="CS50P" src="https://github.com/user-attachments/assets/13ee5bcd-9e3e-423d-b92f-e17cc78dd502" />
+<img width="800" height="600" alt="CS50P" src="https://github.com/user-attachments/assets/13ee5bcd-9e3e-423d-b92f-e17cc78dd502" />
 
 
 
