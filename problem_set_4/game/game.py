@@ -1,6 +1,4 @@
 import random
-
-# Prompt user for level
 while True:
     try:
         level = int(input("Level: "))
@@ -8,11 +6,7 @@ while True:
             break
     except ValueError:
         pass
-
-# Generate target number
 target = random.randint(1, level)
-
-# Guess loop
 while True:
     try:
         guess = int(input("Guess: "))
@@ -20,7 +14,6 @@ while True:
             continue
     except ValueError:
         continue
-
     if guess < target:
         print("Too small!")   
     elif guess > target:
